@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/frandbc/api-azure.git"
+    "url": "git+ssh://git@github.com/frandbc/apiAzure.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/frandbc/api-azure/issues"
+    "url": "https://github.com/frandbc/apiAzure/issues"
   },
-  "homepage": "https://github.com/frandbc/api-azure#readme"
+  "homepage": "https://github.com/frandbc/apiAzure#readme"
 }
